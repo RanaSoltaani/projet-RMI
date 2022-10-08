@@ -1,2 +1,2 @@
-# ptojrt-RMI
+# projet-RMI
 Gestion Etudiants
